@@ -31,10 +31,11 @@
     - Header.js (functional)
     - Finder.js (stateful: axios request to fetch three recipes)
         - Food.js (stateful: this.state.foodClicked)
-    -Cookbook.js (functional)
-        -Recipe.js (stateful: this.state.name, this.state.editing)
+    - Cookbook.js (functional)
+        - Recipe.js (stateful: this.state.name, this.state.editing)
 
 ### Wireframe
-<img src="./myRecipesWireframe/PNG">
-<img src="./myRecipesOutline2/PNG">
+<img src="./myRecipesWireframe.PNG">
+<img src="./myRecipesOutline2.PNG">
+<img src="./>
 
