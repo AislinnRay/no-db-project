@@ -35,6 +35,6 @@
         - Recipe.js (stateful: this.state.name, this.state.editing)
 
 ### Wireframe
-<img src="./screenshots/myRecipesWireframe.PNG">
-<img src="./screenshots/myRecipesOutline2.PNG">
+<img src="./screenshots/myRecipesWireframe.PNG"/>
+<img src="./screenshots/myRecipesOutline2.png"/>
 
